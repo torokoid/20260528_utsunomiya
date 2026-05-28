@@ -172,7 +172,7 @@ p.note { display: none; }
 <a href="20260528_001.JPG" target="_blank"><img src="20260528_001.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260528_002.JPG" target="_blank"><img src="20260528_002.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">花言葉まで添えられていて、掃除のおばさんの気遣いが素晴らしいです</span></h2>
+<h2><span class="yellow">花言葉まで添えられていて、掃除のおばさんの気遣いが素晴らしいです<br>下に提供したお花屋さんの名前とTELがありますね</span></h2>
 <a href="20260528_003.JPG" target="_blank"><img src="20260528_003.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">ベルモールの踊り場から東側を見た景色</span></h2>
